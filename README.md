@@ -1,0 +1,1 @@
+Projeto desenvolvido em atividade na plataforma B7WEB 100% responsivo, projetado para Desktops, Tablets e Celulares. Utilizando HTML, CSS e JavaScript para desenvolvimento do menu Mobile
